@@ -24,6 +24,7 @@ The traditional online gambling industry is plagued by several issues, including
 
 - **Provably Fair Gaming:** Utilizing the aptos on-chain randomness module within the Aptos Ecosystem we ensure all game outcomes are transparent and verifiably fair.
 
+![367676601-3549c792-a64e-47a1-b0f7-74d98332af39](https://github.com/user-attachments/assets/3274fb5d-5061-45f0-b811-b3433163129d)
 
 
 - **Flexible Withdrawal Policies:** Providing users with unrestricted access to their funds.
@@ -51,19 +52,23 @@ The traditional online gambling industry is plagued by several issues, including
 
 **Diverse Game Selection:** A variety of fully on-chain games, including roulette, mines, wheel of luck, blackjack, plinko, and more. As a (POC) Proof of Concept we developed fully on-chain Roulette but a similar model can be applied to introduce the new casino games to the platform.
 
+![367676707-2b7d30fb-635e-441a-95db-3b36c6127bdf](https://github.com/user-attachments/assets/2b379493-f6e8-4329-a9bb-a570434c635e)
 
+![367677001-dff51e16-ceed-44da-b27d-2d925b4d62e0](https://github.com/user-attachments/assets/efedc79d-b4fc-4412-974b-a87d4722e4d0)
+
+![367676835-c0b31be6-cda8-45aa-bc82-86b6121c917f (1)](https://github.com/user-attachments/assets/0e596c3c-a4c9-4f8b-bbab-cfdb5a0f276b)
 
 ### Our Sources of Revenue
 
--**Transaction Fees:** Small fees on bets, asset trades, and withdrawals across the platform.
+- **Transaction Fees:** Small fees on bets, asset trades, and withdrawals across the platform.
 
--**NFT Sale:** Revenue from the sale of in-game NFTs and digital assets.
+- **NFT Sale:** Revenue from the sale of in-game NFTs and digital assets.
 
--**Advertising:** Partnered promotions, priority visibility and in-game advertising opportunities.
+- **Advertising:** Partnered promotions, priority visibility and in-game advertising opportunities.
 
--**DeFi Products:** Fees generated from APTC - staking, yield farming, and liquidity pool mining activities.
+- **DeFi Products:** Fees generated from APTC - staking, yield farming, and liquidity pool mining activities.
 
--**Premium Features:** Offering users access to exclusive games or features through paid upgrades or subscriptions.
+- **Premium Features:** Offering users access to exclusive games or features through paid upgrades or subscriptions.
 
 ### What's next
 All though started as an idea but now we are thinking of carrying it forward as a business model and expanding further.
@@ -89,3 +94,11 @@ All though started as an idea but now we are thinking of carrying it forward as 
 - We also plan to introduce an in-game chat feature where gamblers/ gamers/ our users can chat and predict the outcome of the games making its perspective and narrative towards SOCIALFI as well.
 
 We want to Be the biggest gamefi/ gambling / games hub centre of the gaming and gambling industry.
+
+### How does our application look?
+
+![Screenshot 2024-10-16 024003](https://github.com/user-attachments/assets/24764db7-9d49-4b82-a8d9-8d1986373eca)
+
+![Screenshot 2024-10-16 024048](https://github.com/user-attachments/assets/696072de-108e-4d2b-8b80-f4e9e090e0b1)
+
+![Screenshot 2024-10-16 024105](https://github.com/user-attachments/assets/1f649909-1f7a-4d6a-ad0e-13097721d83f)
