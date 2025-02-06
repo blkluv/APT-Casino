@@ -57,31 +57,31 @@ export default function FeatureSection() {
       <div className="grid-cols-2 grid py-11 px-20 gap-[60px] mt-14 bg-ruby rounded-3xl z-10 relative" >
         <div id="first-col">
           <div className="">
-            <h2 className="text-dark-kiss text-sm font-semibold">Key features</h2>
+            <h2 className="text-sm font-semibold text-dark-kiss">Key features</h2>
             <h1 className="text-white my-5 text-[32px] leading-[40px] font-bold">Traditional vs APT-Casino
 
             </h1>
-            <p className="text-white/[0.6] font-medium">Traditional online casinos often lack transparency, and players have to trust the platform's integrity without any verifiable proof of fairness. Issues like rigged games, hidden terms like bonus wager limits, and withdrawal restrictions are common, causing players to lose trust. APT-Casino leverages Aptos blockchain technology to solve these problems by providing transparent and provably fair gaming experiences.
+            <p className="text-white/[0.6] font-medium">Traditional online casinos often lack transparency, and players have to trust the casinos integrity without any verifiable proof of fairness. Issues like rigged games, hidden terms like bonus wager limits, and withdrawal restrictions are common, causing players to lose trust. APT-Casino leverages Aptos blockchain technology to solve these problems by providing transparent and provably fair gaming experiences.
 </p>
           </div>
         </div>
         <div id="second-col" className="flex flex-col gap-5">
           <div className="border-t border-b border-[#E504983D] p-5 flex flex-col gap-3 inner-purple-shadow rounded-xl">
-            <h2 className="text-dark-kiss text-sm font-semibold">Transparent and Fair Gaming
+            <h2 className="text-sm font-semibold text-dark-kiss">Transparent and Fair Gaming
 </h2>
             <p className="text-white">Provably Fair Gameplay: Utilizing Aptos fully on-chain randomness module, APT-Casino ensures that all game outcomes are transparent and verifiably fair, giving players confidence in the integrity of the games.
 
 </p>
           </div>
           <div className="border-t border-b border-[#E504983D] p-5 flex flex-col gap-3 inner-purple-shadow rounded-xl">
-            <h2 className="text-dark-kiss text-sm font-semibold">Enhanced Security
+            <h2 className="text-sm font-semibold text-dark-kiss">Enhanced Security
 </h2>
             <p className="text-white">
-Security is highly prioritized for newcomers in web3 gambling. APT-Casino utilizes robust security features of Aptos & Okto's wallet infrastructure to protect user assets from unauthorized access. 
+Security is highly prioritized for newcomers in web3 gambling. APT-Casino utilizes robust security features of Aptos & Petra wallet infrastructure to protect user assets from unauthorized access. 
 </p>
           </div>
           <div className="border-t border-b border-[#E504983D] p-5 flex flex-col gap-3 inner-purple-shadow rounded-xl">
-            <h2 className="text-dark-kiss text-sm font-semibold">
+            <h2 className="text-sm font-semibold text-dark-kiss">
 
 Seamless Cross-Chain Integration
 
